@@ -106,3 +106,5 @@ O projeto demonstra a aplicação prática do Excel na preparação, análise e 
 ## Observação
 
 Os resultados apresentados correspondem aos dados e às competências selecionadas para as análises. A interpretação dos indicadores deve considerar as definições e limitações da base original.
+
+
