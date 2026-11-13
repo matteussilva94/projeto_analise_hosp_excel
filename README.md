@@ -49,7 +49,7 @@ O processo de preparação incluiu:
 
 Análise mensal dos leitos hospitalares existentes e dos leitos SUS durante 2025.
 
-![Evolução mensal](05%20-%20documentacao/02_evolucao_mensal.png)
+![Evolução mensal](05%20-%20documentacao/02_evolução_mensal.png)
 
 ### 2. Capacidade hospitalar por região
 
